@@ -1,0 +1,2 @@
+# -Codexus.HeypixelProtocolExtension.AutoChoose
+Codexus.HeypixelProtocolExtension 的二级扩展 在部分状态下自动替用户做出选择
